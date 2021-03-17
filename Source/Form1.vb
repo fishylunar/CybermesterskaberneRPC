@@ -6,7 +6,7 @@ Imports Newtonsoft.Json.Linq
 Imports MaterialSkin
 
 ' To whoever is reading this, im sorry for what you're about to see
-' Welcome to spaghetti code land - enhoy your stay <3
+' Welcome to spaghetti code land - enjoy your stay <3
 ' ~Jayy
 
 
